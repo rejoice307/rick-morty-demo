@@ -115,7 +115,6 @@ const CharactersGrid = () => {
                       variant="contained"
                       color="primary"
                       size="small"
-                      href={character.url}
                       target="_blank"
                       fullWidth
                     >
