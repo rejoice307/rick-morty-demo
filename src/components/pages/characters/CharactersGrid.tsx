@@ -115,7 +115,6 @@ const CharactersGrid = () => {
                       variant="contained"
                       color="primary"
                       size="small"
-                      target="_blank"
                       fullWidth
                     >
                       View Details
